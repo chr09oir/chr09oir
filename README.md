@@ -1,16 +1,15 @@
-## Hi there 👋
+## Bonjour et bienvenue sur mon readme 👋
+# *Qui suis-je ?*
+* Chris Crossoir
+* 17ans
+* né le 9 Janvier 2008 a Angers
+* habite à la pouëze
+# *Ma famille* :sparkles:
+J'ai un père, une mère et une petite soeur.  
+Mon papa s'appelle Frédéric et a 52 ans.   
+Ma maman s'appelle Sandie et a 47 ans.  
+Et ma soeur s'appelle Emy et a 13 ans.  
+# *Mes Passions*
 
-<!--
-**chr09oir/chr09oir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
